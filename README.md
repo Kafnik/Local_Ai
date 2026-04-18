@@ -13,7 +13,7 @@
 
 <div align='center'>
 
-<img src="https://github.com/Kafnik/Flappy-Bird/raw/main/.github/image/image1.png" alt="llama.cpp logo" width="200">
+<img src="https://github.com/Kafnik/Flappy-Bird/raw/main/.github/images/image1.png" alt="llama.cpp logo" width="200">
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align='center'>
 
-<img src="https://github.com/Kafnik/Flappy-Bird/raw/main/.github/image/images(2).png" alt="Qwen logo" width="200">
+<img src="https://github.com/Kafnik/Flappy-Bird/raw/main/.github/images/images(2).png" alt="Qwen logo" width="200">
 
 </div>
 
